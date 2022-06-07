@@ -32,13 +32,11 @@ Some of the main applications of CycleGAN include:
 4. Photograph Generation From Paintings
 5. Photograph Enhancement
 
+[Original Paper] https://arxiv.org/pdf/1703.10593.pdf
+
 
 <h2>Objective</h2>
 
 This project deals with "Style Transfer" using GAN (rotation around center being the style). The main Objective of this project is to train and optimize a Generative Adversarial Network (CycleGAN) to:
 1. Generate normal MNIST images from rotated MNIST image samples.
 2. Generate rotated MNIST images from normal MNIST image samples.
-
-<h2>*References*</h2>
-1. https://machinelearningmastery.com/what-is-cyclegan/#:~:text=The%20CycleGAN%20is%20a%20technique,be%20related%20in%20any%20way.
-2. [Original Paper] https://arxiv.org/pdf/1703.10593.pdf
