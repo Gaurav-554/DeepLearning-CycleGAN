@@ -14,6 +14,15 @@ The two models are trained in an adversarial fashion until fake examples generat
 
 CycleGAN is a technique that involves the automatic training of image-to-image translation models without paired examples. The models are trained in an unsupervised manner using a collection of images from the source and target domain that do not need to be related in any way.
 
+<br>
+<p align="center">
+  <img width="400" height="300" alt="CycleGAN Architecture" src="https://github.com/Gaurav-554/DeepLearning-CycleGAN/blob/main/img_readme/CycleGAN_img1.png">
+</p>
+<p align="center">
+  Figure 1: CycleGAN Architecture
+</p>
+<br>
+
 The main idea behind CycleGAN is, if we are given with two sets of images X and Y (as shown above) and if we convert an image from set X (blue dot) to set Y (red dot) and then convert it back to set X then we should arrive where we started. If that doesn't happen then that loss can be termed as "cycle-consistancy loss", the models are trained to minimize this cycle-consistancy loss.
 
 Some of the main applications of CycleGAN include:
