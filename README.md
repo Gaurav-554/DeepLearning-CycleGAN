@@ -16,7 +16,7 @@ CycleGAN is a technique that involves the automatic training of image-to-image t
 
 <br>
 <p align="center">
-  <img width="350" height="250" alt="CycleGAN Architecture" src="https://github.com/Gaurav-554/DeepLearning-CycleGAN/blob/main/img_readme/CycleGAN_img1.png">
+  <img width="375" height="275" alt="CycleGAN Architecture" src="https://github.com/Gaurav-554/DeepLearning-CycleGAN/blob/main/img_readme/CycleGAN_img1.png">
 </p>
 <p align="center">
   Figure 1: CycleGAN Architecture
